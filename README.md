@@ -83,15 +83,20 @@ me = TanujaChaudhari()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanuchaudhri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuchaudhri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="180" alt="Top Languages"/>
+<a href="https://github.com/tanuchaudhri">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanuchaudhri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&cache_seconds=1800" height="180"/>
+</a>
+<a href="https://github.com/tanuchaudhri">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuchaudhri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&cache_seconds=1800" height="180"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanuchaudhri&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" width="70%" alt="GitHub Streak"/>
+<a href="https://github.com/tanuchaudhri">
+  <img src="https://streak-stats.demolab.com?user=tanuchaudhri&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" width="70%"/>
+</a>
 
 </div>
 
@@ -101,7 +106,9 @@ me = TanujaChaudhari()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tanuchaudhri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
+<a href="https://github.com/tanuchaudhri">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanuchaudhri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+</a>
 
 </div>
 
@@ -111,7 +118,9 @@ me = TanujaChaudhari()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanuchaudhri&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<a href="https://github.com/tanuchaudhri">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanuchaudhri&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Tanuja's%20Contribution%20Graph" width="100%"/>
+</a>
 
 </div>
 
