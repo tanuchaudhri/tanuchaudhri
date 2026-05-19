@@ -96,9 +96,8 @@ me = TanujaChaudhari()
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=tanuchaudhri&theme=radical&radius=10" alt="Tanuja Chaudhari's Activity Graph" />
 </p>
 
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+
+
 
 ---
 
